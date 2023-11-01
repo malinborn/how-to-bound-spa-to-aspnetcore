@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNoQfyqBG2A9mG7Fk7HbMBzmRPZAB8ovW7bVgRXWn8TovSXpnfUo2YMVNgirRYuqfnyRjWK4F3But+1zd9DuGQ==",
+  "success": true,
+  "projectFilePath": "/Users/maxkovalevskiy/RiderProjects/FrontToBackFromScratch/FrontToBackFromScratch/FrontToBackFromScratch.csproj",
+  "expectedPackageFiles": [
+    "/Users/maxkovalevskiy/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.1/microsoft.aspnetcore.spaproxy.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

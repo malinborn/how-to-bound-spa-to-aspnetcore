@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:3000",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/maxkovalevskiy/RiderProjects/FrontToBackFromScratch/FrontToBackFromScratch/frontend/",
+"MaxTimeoutInSeconds": "120"
+}
+}

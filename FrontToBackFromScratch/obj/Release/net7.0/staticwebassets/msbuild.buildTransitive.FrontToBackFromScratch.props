@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FrontToBackFromScratch.props" />
+</Project>
